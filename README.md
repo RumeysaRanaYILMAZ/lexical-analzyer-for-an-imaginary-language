@@ -1,1 +1,1 @@
-# lexical-analzyer-for-an-imaginary-language
+Please check the docx file for better understanding of imaginary language.
