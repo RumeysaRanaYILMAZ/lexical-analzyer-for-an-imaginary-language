@@ -1,0 +1,8 @@
+<keyword,int ><identifier,size><end of line,.>
+<keyword,int><blank, ><identifier,sum><end of line,.>
+<keyword,move><blank, ><sayi,5 ><keyword,to ><identifier,size><end of line,.>
+<keyword,loop><blank, ><identifier,size ><keyword,times>
+<open_bracket,[><blank, ><keyword,out ><identifier,size><comma,,><blank, ><identifier,newline><end of line,.>
+<blank,  ><keyword,add ><identifier,size ><keyword,to ><identifier,sum><end of line,.>
+<close_bracket,]>
+<keyword,out><blank, ><identifier,newline><comma,,><blank, ><string,"Sum:"><comma,,><blank, ><identifier,sum><end of line,.>
